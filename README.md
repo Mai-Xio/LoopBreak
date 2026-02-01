@@ -22,7 +22,7 @@ The given themes are incorporated in the following ways:
 
 ### Running from Source
 1. Clone the GitHub repository
-2. Open `<ThwPine>.uproject` in Unreal Engine 5.5
+2. Open `<ThePine>.uproject` in Unreal Engine 5.5
 3. Click Play to test or Package Project to build
 
 ## Executable / Play Link
@@ -37,7 +37,7 @@ The given themes are incorporated in the following ways:
 
 ## GitHub Repository
 This repository contains the complete source code and development history:
-<PASTE YOUR GITHUB LINK HERE>
+<https://github.com/Mai-Xio/LoopBreak/blob/main/README.md>
 
 ## Credits
 - Team Members: <Noor Mohammadi>
